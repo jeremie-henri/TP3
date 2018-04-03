@@ -1,6 +1,6 @@
 # TP3 - Diagrammes de séquence
 
-Vous rendez vos solutions dans ce dépôt en deux formats :
+Les solutions sont à rendre dans ce dépôt en deux formats :
 * Fichiers StarUML`.mdj` 
 * Les images en format `.pdf` ou `.png` (au choix)
 
